@@ -1,0 +1,34 @@
+.header {
+background-color: #234454;
+height: 10%;
+    display:block;
+} 
+
+body {
+    background-color: #A1B1C1;
+    width: 100%;
+    margin: 0;
+}
+
+footer {
+background-color: #234454;
+}
+
+h1 {
+padding: 0.5%;
+margin: 0;}
+
+.panel {
+    position: fixed;
+    left: -15.625em; /*left or right and the width of your navigation panel*/
+    width: 15.625em; /*should match the above value*/
+    background: #2C3E50;
+}
+
+.wrap {
+    position: relative;
+}
+
+.main {
+background-color: red;
+}
