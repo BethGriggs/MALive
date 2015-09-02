@@ -1,1 +1,1 @@
-<footer><h1>Footer</h1></footer>
+<footer class="wrap push"><h1>Footer</h1></footer>
