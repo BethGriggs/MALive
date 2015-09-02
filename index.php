@@ -12,7 +12,6 @@
             <div id="container" class="wrap push">
                 <h1>Home</h1>
                 <button id="test">Click me</button>
-                <a href="#menu" class="menu-link">&#9776;</a>
             </div>
             <?php include('inc/footer.php'); ?>
            <?php include('inc/navigation.php'); ?>
