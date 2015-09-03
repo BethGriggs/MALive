@@ -13,6 +13,7 @@
                 <h1>Home</h1>
                 <button id="test">Click me</button>
             </div>
+        
             <?php include('inc/footer.php'); ?>
            <?php include('inc/navigation.php'); ?>
  </div>
