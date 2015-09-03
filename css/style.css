@@ -21,6 +21,9 @@ h1 {
     display: block;
 }
 
+a {
+text-decoration: none;
+}
 .panel {
     position: fixed;
     left: -15.625em;
