@@ -62,3 +62,26 @@ h1 {
 .title {
     text-align: center;
 }
+
+.panel a {
+    display: block;
+    border-bottom: 2px solid #34495D;
+    padding: 1em;
+}
+
+.panel a:link, .panel a:visited {
+    color: #fff;
+}
+
+li {
+list-style: none;
+}
+
+li:hover {
+    background-color: #25B89A;
+}
+
+ul, li {
+    margin: 0;
+    padding: 0;
+}
