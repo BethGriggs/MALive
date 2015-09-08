@@ -1,3 +1,4 @@
 - Make sure consist use of '' ""
 - Check variables
 - Consider separating each type of data
+- Insertcolumn = FALSE! on all HandsOnTables

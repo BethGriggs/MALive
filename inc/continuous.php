@@ -22,6 +22,7 @@
       colHeaders: ["Study", "N1", "N2", "M1", "M2", "SD1", "SD2", "Hedges g", "CI-", "CI+"],
       columnSorting: true,
       contextMenu: true,
+      allowInsertColumn: false,
     });
    
       var rdata = [
