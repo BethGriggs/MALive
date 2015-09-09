@@ -23,6 +23,7 @@
       columnSorting: true,
       contextMenu: true,
       allowInsertColumn: false,
+      allowRemoveColumn: false,
     });
    
       var rdata = [
@@ -37,6 +38,8 @@
       colHeaders: ["Study", "Size", "Correlation", "CI-", "CI+"],
       columnSorting: true,
       contextMenu: true,
+      allowInsertColumn: false,
+      allowRemoveColumn: false,
     });
     
        
@@ -52,6 +55,8 @@
       colHeaders: ["Study", "N1", "N2", "M1", "SD1", "SD2", "Mean Difference", "CI-", "CI+"],
       columnSorting: true,
       contextMenu: true,
+      allowInsertColumn: false,
+      allowRemoveColumn: false,
     });
    
 </script>

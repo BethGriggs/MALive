@@ -19,6 +19,8 @@
         colHeaders: ["Study", "E1", "E2", "NE1", "NE2", "Odds Ratio", "CI-", "CI+"],
         columnSorting: true,
         contextMenu: true,
+        allowInsertColumn: false,
+        allowRemoveColumn: false,
     });
 
     var riskRatioData = [
@@ -32,6 +34,8 @@
         colHeaders: ["Study", "E1", "E2", "NE1", "NE2", "Risk Ratio", "CI-", "CI+"],
         columnSorting: true,
         contextMenu: true,
+        allowInsertColumn: false,
+        allowRemoveColumn: false,
     });
 
     var riskDifferenceData = [
@@ -45,5 +49,7 @@
         colHeaders: ["Study", "E1", "E2", "NE1", "NE2", "Risk Difference", "CI-", "CI+"],
         columnSorting: true,
         contextMenu: true,
+        allowInsertColumn: false,
+        allowRemoveColumn: false,
     });
 </script>
