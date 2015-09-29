@@ -1,4 +1,3 @@
 - Make sure consist use of '' ""
 - Check variables
-- Consider separating each type of data
-- disable rows
+- Study input form 
